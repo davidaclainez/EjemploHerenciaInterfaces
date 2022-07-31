@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             Title="About"
+             x:Class="EjemploHerenciaInterfaces.pages.about">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="About Page!"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" />
+            <Button Text="More..." />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
