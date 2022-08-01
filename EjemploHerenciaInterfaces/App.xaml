@@ -7,9 +7,9 @@
             <Setter Property="FontSize" Value="30"/>
             <Setter Property="Margin" Value="10"></Setter>
             <Setter Property="CornerRadius" Value="20"/>
+            <Setter Property="BackgroundColor" Value="SteelBlue"/>
         </Style>
         <Style TargetType="Button" BasedOn="{StaticResource Button_style}">
-            <Setter Property="BackgroundColor" Value="SteelBlue"/>
             <Setter Property="TextColor" Value="LightYellow"/>
             <Setter Property="BorderWidth" Value="5"/>
             <Setter Property="BorderColor" Value="LightGray"/>
